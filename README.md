@@ -14,7 +14,7 @@ try not to peek before attempting to solve it on your own.
 What is the runtime complexity of the conversion that you implemented? Does it
 depend on the number of vertices, the number of edges, or both?
 
-Runtime is $O(n^2)$ where N is the input adjacency matrix, as the code iterates over adjMatrix.length with another nested for loop that iterates over adjMatrix.length. These values are both used to access the values within the matrix.
+Runtime is $O(n^2)$ where N is the input adjacency matrix, as the code iterates over adjMatrix.length with another nested for loop that iterates over adjMatrix.length. These values are both used to access the values within the matrix. This is dependent on the number of vertices as adjMatrix.length directly compares to the amount of vertices.
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. Add your answer to this markdown file.
