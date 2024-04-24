@@ -9,7 +9,7 @@ does contain the solution, so you can have a look at it if you get stuck, but
 try not to peek before attempting to solve it on your own.
 
 ## Runtime Analysis
-//worked with Aaron Krapes, however, the convert to matrix was my own creation
+//worked with Aaron Krapes, however, the convert to matrix was my own creation, as well as the test case to accompany it.
 
 What is the runtime complexity of the conversion that you implemented? Does it
 depend on the number of vertices, the number of edges, or both?
